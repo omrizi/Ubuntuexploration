@@ -1,3 +1,4 @@
-# V1
+# V3
 # Ubuntuexploration
 exploring ubuntu ci cd pipes &amp; devops tools
+omriziner add some info from ubuntu machine
