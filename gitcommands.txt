@@ -1,0 +1,25 @@
+#v2
+#git commands
+
+git init - set the directory as a git directory
+
+git add <fileName>  --> add a new file to the local repository
+
+git commit -m "description" - commit changes to the local repository
+
+git clone "url"
+
+git push origin master
+ 
+
+git remote -v {view the remote added to git}
+
+git remote add <origin> "url"
+
+git remote rm <dst>
+
+
+git --config {config username and email addr}
+
+git checkout -b new_branch_name
+git push -u origin new_branch_name
